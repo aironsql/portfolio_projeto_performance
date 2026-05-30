@@ -162,7 +162,7 @@ Dessa forma, o usuário consegue transformar dados em informações acionáveis.
 **Airon Leonardo**
 
 🔗 LinkedIn:  
-[https://www.linkedin.com/in/airon-leonardo-rufino](https://www.linkedin.com/in/aironleonardo/)
+[Airon Leonardo](https://www.linkedin.com/in/aironleonardo/)
 
 🔗 GitHub:  
 https://github.com/aironsql
